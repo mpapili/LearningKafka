@@ -1,2 +1,2 @@
 # LearningKafka
-Can we learn Kafka?
+Can we learn Kafka without Google?
